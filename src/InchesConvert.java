@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Inches {
+public class InchesConvert {
     public static void main(String []args){
 
         Scanner scan =new Scanner(System.in);
